@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg_new">
+
+    <com.airbnb.lottie.LottieAnimationView
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:id="@+id/lottie_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:scaleType="fitXY"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_marginTop="@dimen/dp_30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_city"
+        android:textSize="@dimen/sp_30"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textColor="@color/white"
+        tools:text = "上海"
+        android:textStyle="bold"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        app:layout_constraintTop_toBottomOf="@id/text_city"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/sp_20"
+        android:id="@+id/text_data"
+        android:textColor="@color/white"
+        tools:text="2023-4-21"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@id/text_data"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="@dimen/dp_15"
+        android:layout_marginStart="@dimen/dp_15"
+        android:textSize="@dimen/sp_20"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_day_temp_tomorrow"
+        tools:text="白天温度"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textColor="@color/white"
+        app:layout_constraintTop_toTopOf="@id/text_day_temp_tomorrow"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="@dimen/dp_15"
+        android:textSize="@dimen/sp_20"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_night_temp_tomorrow"
+        tools:text="晚上温度"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@id/text_day_temp_tomorrow"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="@dimen/dp_15"
+        android:layout_marginStart="@dimen/dp_15"
+        android:textSize="@dimen/sp_20"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_day_windy_tomorrow"
+        tools:text="白天风向"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textColor="@color/white"
+        app:layout_constraintTop_toTopOf="@id/text_day_windy_tomorrow"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="@dimen/dp_15"
+        android:textSize="@dimen/sp_20"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_night_windy_tomorrow"
+        tools:text="晚上风向"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@id/text_night_windy_tomorrow"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="@dimen/dp_15"
+        android:layout_marginStart="@dimen/dp_15"
+        android:textSize="@dimen/sp_20"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_day_power_tomorrow"
+        tools:text="白天风力"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textColor="@color/white"
+        app:layout_constraintTop_toTopOf="@id/text_day_power_tomorrow"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginEnd="@dimen/dp_15"
+        android:textSize="@dimen/sp_20"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_night_power_tomorrow"
+        tools:text="晚上风力"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@id/text_night_power_tomorrow"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="@dimen/dp_15"
+        android:layout_marginStart="@dimen/dp_15"
+        android:textSize="@dimen/sp_20"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_day_weather_tomorrow"
+        tools:text="白天天气现象"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@id/text_day_weather_tomorrow"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="@dimen/dp_15"
+        android:layout_marginStart="@dimen/dp_15"
+        android:textSize="@dimen/sp_20"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_night_weather_tomorrow"
+        tools:text="晚上天气现象"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

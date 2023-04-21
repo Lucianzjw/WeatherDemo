@@ -1,0 +1,1657 @@
+[{
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "恭王府景区",
+	"code": "110102",
+	"county": "",
+	"lat": "31.007925",
+	"lng": "103.607572"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "故宫博物院",
+	"code": "110101",
+	"county": "",
+	"lat": "39.917248",
+	"lng": "116.397176"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "天坛公园",
+	"code": "110101",
+	"county": "",
+	"lat": "39.881265",
+	"lng": "116.410638"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "颐和园",
+	"code": "110108",
+	"county": "",
+	"lat": "39.991664",
+	"lng": "116.271966"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "八达岭长城",
+	"code": "110119",
+	"county": "",
+	"lat": "40.361375",
+	"lng": "116.019809"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "北京市奥林匹克公园",
+	"code": "110105",
+	"county": "",
+	"lat": "39.995209",
+	"lng": "116.394777"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "北京市明十三陵景区",
+	"code": "110114",
+	"county": "",
+	"lat": "40.323042",
+	"lng": "116.223544"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "天津盘山风景名胜区",
+	"code": "120110",
+	"county": "",
+	"lat": "40.082207",
+	"lng": "117.268196"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "秦皇岛市山海关景区",
+	"code": "130301",
+	"county": "",
+	"lat": "39.999387",
+	"lng": "119.757916"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "天津古文化街旅游区",
+	"code": "120104",
+	"county": "",
+	"lat": "39.145368",
+	"lng": "117.191447"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "承德避暑山庄及周围寺庙景区",
+	"code": "130803",
+	"county": "",
+	"lat": "40.994793",
+	"lng": "117.935193"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "保定市安新白洋淀景区",
+	"code": "130601",
+	"county": "",
+	"lat": "38.940628",
+	"lng": "115.971067"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "晋中市介休绵山景区",
+	"code": "140702",
+	"county": "",
+	"lat": "36.884810",
+	"lng": "111.949200"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "河北省石家庄市西柏坡景区",
+	"code": "130102",
+	"county": "",
+	"lat": "38.342024",
+	"lng": "113.943732"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "大同市云冈石窟",
+	"code": "140201",
+	"county": "",
+	"lat": "40.112915",
+	"lng": "113.134910"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "晋中市乔家大院文化园区",
+	"code": "140702",
+	"county": "",
+	"lat": "37.407076",
+	"lng": "112.433645"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "河北保定野三坡景区",
+	"code": "130601",
+	"county": "",
+	"lat": "39.675163",
+	"lng": "115.452023"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "忻州市五台山风景名胜区",
+	"code": "140901",
+	"county": "",
+	"lat": "38.994542",
+	"lng": "113.584593"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "山西晋城皇城相府生态文化旅游",
+	"code": "140501",
+	"county": "",
+	"lat": "35.512008",
+	"lng": "112.582786"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "内蒙古鄂尔多斯成吉思汗陵旅游",
+	"code": "150601",
+	"county": "",
+	"lat": "39.363330",
+	"lng": "109.825963"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "内蒙古鄂尔多斯响沙湾旅游景区",
+	"code": "150601",
+	"county": "",
+	"lat": "40.243748",
+	"lng": "109.951789"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "沈阳市植物园",
+	"code": "210101",
+	"county": "",
+	"lat": "41.858039",
+	"lng": "123.645242"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "辽宁大连金石滩景区",
+	"code": "210202",
+	"county": "",
+	"lat": "41.832194",
+	"lng": "123.409099"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "大连老虎滩海洋公园.老虎滩极",
+	"code": "210202",
+	"county": "",
+	"lat": "38.877120",
+	"lng": "121.678039"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "长白山景区",
+	"code": "222401",
+	"county": "",
+	"lat": "42.184401",
+	"lng": "128.178131"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "伊春市汤旺河林海奇石景区",
+	"code": "230701",
+	"county": "",
+	"lat": "48.453651",
+	"lng": "129.572240"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "吉林长春净月潭景区",
+	"code": "220101",
+	"county": "",
+	"lat": "43.799657",
+	"lng": "125.454143"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "哈尔滨市太阳岛景区",
+	"code": "230101",
+	"county": "",
+	"lat": "45.785818",
+	"lng": "126.591109"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "长春市伪满皇宫博物院",
+	"code": "220101",
+	"county": "",
+	"lat": "43.905729",
+	"lng": "125.348406"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "黑龙江牡丹江镜泊湖景区",
+	"code": "231002",
+	"county": "",
+	"lat": "44.582962",
+	"lng": "129.618602"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "黑龙江黑河五大连池景区",
+	"code": "231101",
+	"county": "",
+	"lat": "48.512688",
+	"lng": "126.197694"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "上海野生动物园",
+	"code": "310115",
+	"county": "",
+	"lat": "31.055220",
+	"lng": "121.722162"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "上海科技馆",
+	"code": "310115",
+	"county": "",
+	"lat": "31.218457",
+	"lng": "121.542104"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "上海东方明珠广播电视塔",
+	"code": "310115",
+	"county": "",
+	"lat": "31.239879",
+	"lng": "121.499674"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "镇江市句容茅山景区",
+	"code": "321183",
+	"county": "",
+	"lat": "31.781633",
+	"lng": "119.307273"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "苏州市沙家浜·虞山尚湖旅游区",
+	"code": "320581",
+	"county": "",
+	"lat": "31.617014",
+	"lng": "120.629780"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "常州市天目湖景区",
+	"code": "320481",
+	"county": "",
+	"lat": "31.317707",
+	"lng": "119.422593"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "南通市濠河景区",
+	"code": "320601",
+	"county": "",
+	"lat": "32.015686",
+	"lng": "120.871265"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "苏州市金鸡湖景区",
+	"code": "320501",
+	"county": "",
+	"lat": "31.312603",
+	"lng": "120.698399"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "镇江市金山·焦山·北固山旅游",
+	"code": "321101",
+	"county": "",
+	"lat": "32.217855",
+	"lng": "119.457336"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "苏州市吴中太湖旅游区",
+	"code": "320506",
+	"county": "",
+	"lat": "30.460120",
+	"lng": "116.315320"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "无锡市鼋头渚景区",
+	"code": "320201",
+	"county": "",
+	"lat": "31.526435",
+	"lng": "120.224480"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "扬州市瘦西湖风景区",
+	"code": "321001",
+	"county": "",
+	"lat": "32.405254",
+	"lng": "119.425201"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "苏州市同里古镇景区",
+	"code": "320506",
+	"county": "",
+	"lat": "31.152181",
+	"lng": "120.723028"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "苏州市周庄古镇景区",
+	"code": "320583",
+	"county": "",
+	"lat": "31.126144",
+	"lng": "120.845476"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "常州市环球恐龙城休闲旅游区",
+	"code": "320412",
+	"county": "",
+	"lat": "31.823039",
+	"lng": "120.001364"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "无锡市灵山景区",
+	"code": "320201",
+	"county": "",
+	"lat": "31.421357",
+	"lng": "120.103551"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "南京市夫子庙-秦淮风光带景区",
+	"code": "320104",
+	"county": "",
+	"lat": "32.020632",
+	"lng": "118.788939"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "衢州市开化根宫佛国文化旅游景",
+	"code": "330824",
+	"county": "",
+	"lat": "29.136503",
+	"lng": "118.414435"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "中央电视台无锡影视基地三国水",
+	"code": "320201",
+	"county": "",
+	"lat": "31.483707",
+	"lng": "120.238575"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "苏州园林（拙政园、虎丘山、留",
+	"code": "320501",
+	"county": "",
+	"lat": "31.324364",
+	"lng": "120.629878"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "江苏省姜堰市溱湖旅游景区",
+	"code": "321201",
+	"county": "",
+	"lat": "32.624060",
+	"lng": "120.091010"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "南京市钟山风景名胜区-中山陵",
+	"code": "320101",
+	"county": "",
+	"lat": "32.059381",
+	"lng": "118.853336"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "浙江省绍兴市鲁迅故里沈园景区",
+	"code": "330601",
+	"county": "",
+	"lat": "29.990570",
+	"lng": "120.590290"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "嘉兴市桐乡乌镇古镇旅游区",
+	"code": "330483",
+	"county": "",
+	"lat": "30.741430",
+	"lng": "120.493510"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "金华市东阳横店影视城景区",
+	"code": "330783",
+	"county": "",
+	"lat": "29.157043",
+	"lng": "120.363502"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "杭州市千岛湖风景名胜区",
+	"code": "330127",
+	"county": "",
+	"lat": "29.600430",
+	"lng": "119.040540"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "舟山市普陀山风景名胜区",
+	"code": "330903",
+	"county": "",
+	"lat": "29.941405",
+	"lng": "122.321004"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "宁波市奉化溪口-滕头旅游景区",
+	"code": "330201",
+	"county": "",
+	"lat": "29.700653",
+	"lng": "121.389762"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "温州市雁荡山风景名胜区",
+	"code": "330301",
+	"county": "",
+	"lat": "28.352020",
+	"lng": "121.095871"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "浙江省嘉兴市南湖旅游区",
+	"code": "330402",
+	"county": "",
+	"lat": "30.764652",
+	"lng": "120.749953"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "杭州市西湖风景名胜区",
+	"code": "330106",
+	"county": "",
+	"lat": "30.243463",
+	"lng": "120.138724"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "黄山市古徽州文化旅游区",
+	"code": "341004",
+	"county": "",
+	"lat": "29.825201",
+	"lng": "118.339743"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "阜阳市颍上八里河景区",
+	"code": "341226",
+	"county": "",
+	"lat": "32.571732",
+	"lng": "116.285225"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "安徽省宣城市绩溪龙川景区",
+	"code": "341824",
+	"county": "",
+	"lat": "30.075811",
+	"lng": "118.668130"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "浙江省杭州西溪湿地旅游区",
+	"code": "330106",
+	"county": "",
+	"lat": "30.268055",
+	"lng": "120.066317"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "六安市天堂寨旅游景区",
+	"code": "341502",
+	"county": "",
+	"lat": "31.196979",
+	"lng": "115.803508"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "池州市九华山风景区",
+	"code": "341702",
+	"county": "",
+	"lat": "30.479266",
+	"lng": "117.803613"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "安徽省黄山市皖南古村落—西递",
+	"code": "341001",
+	"county": "",
+	"lat": "29.937105",
+	"lng": "118.367490"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "黄山市黄山风景区",
+	"code": "341001",
+	"county": "",
+	"lat": "30.108863",
+	"lng": "118.225001"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "宁德市福鼎太姥山旅游区",
+	"code": "350982",
+	"county": "",
+	"lat": "27.318106",
+	"lng": "120.220121"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "安徽省安庆市天柱山风景区",
+	"code": "340801",
+	"county": "",
+	"lat": "30.726500",
+	"lng": "116.469650"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "泉州市清源山景区",
+	"code": "350501",
+	"county": "",
+	"lat": "24.986710",
+	"lng": "118.608480"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "南平市武夷山风景名胜区",
+	"code": "350782",
+	"county": "",
+	"lat": "27.685395",
+	"lng": "117.992325"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "福建省土楼（永定·南靖）旅游",
+	"code": "350627",
+	"county": "",
+	"lat": "24.597867",
+	"lng": "116.837945"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "宁德市白水洋-鸳鸯溪旅游区",
+	"code": "350901",
+	"county": "",
+	"lat": "27.053608",
+	"lng": "119.111069"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "景德镇古窑民俗博览区",
+	"code": "360203",
+	"county": "",
+	"lat": "29.286077",
+	"lng": "117.179796"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "厦门市鼓浪屿风景名胜区",
+	"code": "350205",
+	"county": "",
+	"lat": "24.446392",
+	"lng": "118.073462"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "福建省三明市泰宁风景旅游区",
+	"code": "350429",
+	"county": "",
+	"lat": "26.864915",
+	"lng": "117.102561"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "吉安市井冈山风景旅游区",
+	"code": "360881",
+	"county": "",
+	"lat": "26.570529",
+	"lng": "114.166111"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "山东省沂蒙山旅游区",
+	"code": "370301",
+	"county": "",
+	"lat": "36.206837",
+	"lng": "117.689452"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "江西省鹰潭市龙虎山旅游景区",
+	"code": "360601",
+	"county": "",
+	"lat": "28.068044",
+	"lng": "116.997973"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "上饶市婺源江湾景区",
+	"code": "361130",
+	"county": "",
+	"lat": "29.356861",
+	"lng": "118.054368"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "江西省上饶市三清山旅游景区",
+	"code": "361101",
+	"county": "",
+	"lat": "28.903974",
+	"lng": "118.062946"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "江西省庐山风景名胜区",
+	"code": "360401",
+	"county": "",
+	"lat": "29.569718",
+	"lng": "115.981272"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "济南市天下第一泉景区",
+	"code": "370101",
+	"county": "",
+	"lat": "36.675807",
+	"lng": "117.000923"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "枣庄市台儿庄古城景区",
+	"code": "370405",
+	"county": "",
+	"lat": "34.558029",
+	"lng": "117.738661"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "泰安市泰山景区",
+	"code": "370902",
+	"county": "",
+	"lat": "36.189313",
+	"lng": "117.129984"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "烟台市蓬莱阁旅游区(三仙山-八",
+	"code": "370684",
+	"county": "",
+	"lat": "37.823049",
+	"lng": "120.781710"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "济宁市曲阜明故城（三孔）旅游",
+	"code": "370881",
+	"county": "",
+	"lat": "35.592055",
+	"lng": "116.993283"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "山东威海刘公岛景区",
+	"code": "371001",
+	"county": "",
+	"lat": "37.502189",
+	"lng": "122.185674"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "山东青岛崂山景区",
+	"code": "370212",
+	"county": "",
+	"lat": "36.129290",
+	"lng": "120.595865"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "洛阳市龙门石窟景区",
+	"code": "410311",
+	"county": "",
+	"lat": "34.555033",
+	"lng": "112.475838"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "山东烟台龙口南山景区",
+	"code": "370681",
+	"county": "",
+	"lat": "37.574176",
+	"lng": "120.474508"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "焦作市云台山风景名胜区",
+	"code": "410821",
+	"county": "",
+	"lat": "35.417651",
+	"lng": "113.377928"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "南阳市西峡伏牛山老界岭·恐龙",
+	"code": "411323",
+	"county": "",
+	"lat": "33.228466",
+	"lng": "111.685210"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "洛阳市龙潭大峡谷景区",
+	"code": "410323",
+	"county": "",
+	"lat": "34.974390",
+	"lng": "112.015990"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "登封市嵩山少林景区",
+	"code": "410185",
+	"county": "",
+	"lat": "34.512067",
+	"lng": "112.950167"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "河南洛阳白云山景区",
+	"code": "410325",
+	"county": "",
+	"lat": "34.127124",
+	"lng": "112.085231"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "河南省平顶山市尧山-中原大佛",
+	"code": "410423",
+	"county": "",
+	"lat": "33.761740",
+	"lng": "112.456560"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "河南省洛阳栾川老君山·鸡冠洞",
+	"code": "410324",
+	"county": "",
+	"lat": "33.720340",
+	"lng": "111.652692"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "河南安阳殷墟景区",
+	"code": "410505",
+	"county": "",
+	"lat": "36.130585",
+	"lng": "114.130207"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "河南开封清明上河园",
+	"code": "410202",
+	"county": "",
+	"lat": "34.808914",
+	"lng": "114.340751"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "武汉市黄陂木兰文化生态旅游区",
+	"code": "420116",
+	"county": "",
+	"lat": "30.874155",
+	"lng": "114.374025"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "湖北省神农架旅游区",
+	"code": "429021",
+	"county": "",
+	"lat": "30.584355",
+	"lng": "114.298572"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "宜昌市三峡大坝旅游区",
+	"code": "420506",
+	"county": "",
+	"lat": "30.750943",
+	"lng": "111.313612"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "宜昌市长阳清江画廊景区",
+	"code": "420528",
+	"county": "",
+	"lat": "30.464220",
+	"lng": "111.140320"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "武汉市黄鹤楼公园",
+	"code": "420106",
+	"county": "",
+	"lat": "30.544407",
+	"lng": "114.303818"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "武汉市东湖景区",
+	"code": "420106",
+	"county": "",
+	"lat": "30.585430",
+	"lng": "114.406703"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "湖北省宜昌市三峡人家风景区",
+	"code": "420506",
+	"county": "",
+	"lat": "30.779890",
+	"lng": "111.161345"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "湖北省恩施州神龙溪纤夫文化旅",
+	"code": "422801",
+	"county": "",
+	"lat": "29.680439",
+	"lng": "109.151511"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "长沙市花明楼景区",
+	"code": "430124",
+	"county": "",
+	"lat": "28.056617",
+	"lng": "112.628208"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "张家界武陵源—天门山旅游区",
+	"code": "430802",
+	"county": "",
+	"lat": "29.347827",
+	"lng": "110.547580"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "衡阳市南岳衡山旅游区",
+	"code": "430412",
+	"county": "",
+	"lat": "27.237920",
+	"lng": "112.735451"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "湖北省十堰市武当山风景区",
+	"code": "420381",
+	"county": "",
+	"lat": "32.408747",
+	"lng": "111.022840"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "佛山市西樵山景区",
+	"code": "440605",
+	"county": "",
+	"lat": "22.926416",
+	"lng": "112.976396"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "佛山市长鹿旅游休博园",
+	"code": "440606",
+	"county": "",
+	"lat": "23.028762",
+	"lng": "113.122717"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "湖南省湘潭市韶山旅游区",
+	"code": "430382",
+	"county": "",
+	"lat": "27.911107",
+	"lng": "112.494459"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "湖南省岳阳市岳阳楼—君山岛景",
+	"code": "430601",
+	"county": "",
+	"lat": "29.366784",
+	"lng": "113.120751"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "惠州市罗浮山景区",
+	"code": "441322",
+	"county": "",
+	"lat": "23.081303",
+	"lng": "114.405729"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "湖南省长沙岳麓山·橘子洲旅",
+	"code": "430104",
+	"county": "",
+	"lat": "28.186442",
+	"lng": "112.980464"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "深圳华侨城旅游度假区",
+	"code": "230404",
+	"county": "",
+	"lat": "22.538816",
+	"lng": "113.984660"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "广东省韶关市丹霞山景区",
+	"code": "440224",
+	"county": "",
+	"lat": "25.036646",
+	"lng": "113.749261"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "广东省广州市白云山风景区",
+	"code": "440111",
+	"county": "",
+	"lat": "23.180097",
+	"lng": "113.297909"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "广州市长隆旅游度假区",
+	"code": "440113",
+	"county": "",
+	"lat": "23.004968",
+	"lng": "113.329929"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "梅州市雁南飞茶田景区",
+	"code": "441401",
+	"county": "",
+	"lat": "24.386491",
+	"lng": "116.364997"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "广东省清远市连州地下河旅游景",
+	"code": "441882",
+	"county": "",
+	"lat": "25.004318",
+	"lng": "112.323972"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "深圳市观澜湖休闲旅游区",
+	"code": "460106",
+	"county": "",
+	"lat": "22.733271",
+	"lng": "114.069435"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "南宁市青秀山旅游区",
+	"code": "450103",
+	"county": "",
+	"lat": "22.789759",
+	"lng": "108.387337"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "桂林市乐满地度假世界",
+	"code": "450325",
+	"county": "",
+	"lat": "25.586229",
+	"lng": "110.678548"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "分界洲岛旅游区",
+	"code": "469028",
+	"county": "",
+	"lat": "18.576314",
+	"lng": "110.199902"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "桂林市独秀峰-王城景区",
+	"code": "450302",
+	"county": "",
+	"lat": "25.281238",
+	"lng": "110.299210"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "桂林市漓江景区",
+	"code": "450323",
+	"county": "",
+	"lat": "24.916820",
+	"lng": "110.526220"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "海南呀诺达雨林文化旅游区",
+	"code": "469029",
+	"county": "",
+	"lat": "18.458210",
+	"lng": "109.650480"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "三亚市南山文化旅游区",
+	"code": "460201",
+	"county": "",
+	"lat": "18.291479",
+	"lng": "109.207577"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "重庆市南川金佛山-神龙峡景区",
+	"code": "500119",
+	"county": "",
+	"lat": "29.155801",
+	"lng": "107.095110"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "酉阳桃花源旅游景区",
+	"code": "500242",
+	"county": "",
+	"lat": "29.683007",
+	"lng": "121.287511"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "三亚市南山大小洞天旅游区",
+	"code": "460201",
+	"county": "",
+	"lat": "18.304456",
+	"lng": "109.177071"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "重庆市万盛经开区黑山谷景区",
+	"code": "500110",
+	"county": "",
+	"lat": "28.958055",
+	"lng": "106.928131"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "阿坝州汶川特别旅游区",
+	"code": "513222",
+	"county": "",
+	"lat": "31.474630",
+	"lng": "103.580675"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "重庆巫山小三峡-小小三峡",
+	"code": "500237",
+	"county": "",
+	"lat": "31.075146",
+	"lng": "109.881935"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "绵阳市北川羌城旅游区",
+	"code": "510726",
+	"county": "",
+	"lat": "31.831505",
+	"lng": "104.461616"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "重庆大足石刻景区",
+	"code": "500111",
+	"county": "",
+	"lat": "29.701480",
+	"lng": "105.723605"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "武隆喀斯特旅游区(天生三桥.仙",
+	"code": "500101",
+	"county": "",
+	"lat": "29.226378",
+	"lng": "107.907304"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "南充市阆中古城旅游区",
+	"code": "511381",
+	"county": "",
+	"lat": "31.570978",
+	"lng": "105.978460"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "广安市邓小平故里旅游区",
+	"code": "511601",
+	"county": "",
+	"lat": "30.518730",
+	"lng": "106.637200"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "阿坝藏族羌族自治州九寨沟旅游",
+	"code": "513200",
+	"county": "",
+	"lat": "33.265470",
+	"lng": "103.918200"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "乐山市峨眉山景区",
+	"code": "511181",
+	"county": "",
+	"lat": "29.629480",
+	"lng": "103.530507"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "成都市青城山--都江堰旅游景区",
+	"code": "510181",
+	"county": "",
+	"lat": "31.001131",
+	"lng": "103.613703"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "四川省阿坝州黄龙景区",
+	"code": "513200",
+	"county": "",
+	"lat": "32.756446",
+	"lng": "103.868491"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "乐山市乐山大佛景区",
+	"code": "370103",
+	"county": "",
+	"lat": "29.545084",
+	"lng": "103.773528"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "毕节市百里杜鹃景区",
+	"code": "520521",
+	"county": "",
+	"lat": "27.301693",
+	"lng": "105.285010"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "安顺市龙宫景区",
+	"code": "520402",
+	"county": "",
+	"lat": "26.245544",
+	"lng": "105.932188"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "安顺市黄果树大瀑布景区",
+	"code": "520423",
+	"county": "",
+	"lat": "25.981143",
+	"lng": "105.666631"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "丽江市玉龙雪山景区",
+	"code": "530721",
+	"county": "",
+	"lat": "27.117075",
+	"lng": "100.250953"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "迪庆州香格里拉普拉措景区",
+	"code": "533400",
+	"county": "",
+	"lat": "41.795273",
+	"lng": "123.406153"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "丽江市丽江古城景区",
+	"code": "530721",
+	"county": "",
+	"lat": "26.869191",
+	"lng": "100.238632"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "昆明市石林风景区",
+	"code": "530126",
+	"county": "",
+	"lat": "24.813127",
+	"lng": "103.349442"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "中国科学院西双版纳热带植物园",
+	"code": "532800",
+	"county": "",
+	"lat": "21.919786",
+	"lng": "101.277959"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "大理市崇圣寺三塔文化旅游区",
+	"code": "532901",
+	"county": "",
+	"lat": "25.705636",
+	"lng": "100.148771"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "拉萨布达拉宫景区",
+	"code": "540102",
+	"county": "",
+	"lat": "29.655474",
+	"lng": "91.118574"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "拉萨市大昭寺",
+	"code": "540102",
+	"county": "",
+	"lat": "29.650237",
+	"lng": "91.1338470"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "宝鸡市法门寺佛文化景区",
+	"code": "610324",
+	"county": "",
+	"lat": "34.442240",
+	"lng": "107.904498"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "延安市黄帝陵景区",
+	"code": "610632",
+	"county": "",
+	"lat": "35.586070",
+	"lng": "109.268046"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "西安市华清池景区",
+	"code": "610115",
+	"county": "",
+	"lat": "34.361701",
+	"lng": "109.213075"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "平凉市崆峒山风景名胜区",
+	"code": "620802",
+	"county": "",
+	"lat": "35.548217",
+	"lng": "106.520841"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "陕西渭南华山景区",
+	"code": "610501",
+	"county": "",
+	"lat": "42.051874",
+	"lng": "127.786703"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "陕西西安大雁塔·大唐芙蓉园景",
+	"code": "610113",
+	"county": "",
+	"lat": "34.212695",
+	"lng": "108.974577"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "西安市秦始皇兵马俑博物馆",
+	"code": "610115",
+	"county": "",
+	"lat": "34.383141",
+	"lng": "109.284426"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "嘉峪关市嘉峪关文物景区",
+	"code": "620201",
+	"county": "",
+	"lat": "39.803695",
+	"lng": "98.2241910"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "西宁市塔尔寺景区",
+	"code": "630122",
+	"county": "",
+	"lat": "36.488106",
+	"lng": "101.565695"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "甘肃天水麦积山景区",
+	"code": "620501",
+	"county": "",
+	"lat": "34.356071",
+	"lng": "106.003876"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "青海省青海湖景区",
+	"code": "632500",
+	"county": "",
+	"lat": "36.294957",
+	"lng": "98.0898190"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "石嘴山市沙湖旅游景区",
+	"code": "640221",
+	"county": "",
+	"lat": "39.013330",
+	"lng": "106.376173"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "中卫市沙坡头旅游景区",
+	"code": "640502",
+	"county": "",
+	"lat": "37.463596",
+	"lng": "104.998908"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "宁夏银川镇北堡西部影视城",
+	"code": "640105",
+	"county": "",
+	"lat": "38.623450",
+	"lng": "106.070331"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "乌鲁木齐天山大峡谷景区",
+	"code": "650102",
+	"county": "",
+	"lat": "43.431120",
+	"lng": "87.3759500"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "阿勒泰地区富蕴可可托海景区",
+	"code": "654322",
+	"county": "",
+	"lat": "47.215690",
+	"lng": "89.8166520"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "巴音郭勒蒙古自治州博斯腾湖景",
+	"code": "652800",
+	"county": "",
+	"lat": "23.004852",
+	"lng": "113.135834"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "阿勒泰地区喀纳斯景区",
+	"code": "654321",
+	"county": "",
+	"lat": "47.700102",
+	"lng": "86.8591230"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "喀什地区泽普金湖杨景区",
+	"code": "653124",
+	"county": "",
+	"lat": "39.467664",
+	"lng": "75.9891380"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "吐鲁番市葡萄沟风景区",
+	"code": "652800",
+	"county": "",
+	"lat": "43.026947",
+	"lng": "89.2557750"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "新疆伊犁那拉提旅游风景区",
+	"code": "654025",
+	"county": "",
+	"lat": "43.313080",
+	"lng": "84.0297050"
+}, {
+	"province_code": "",
+	"province": "",
+	"city_code": "",
+	"city": "新疆天山天池风景名胜区",
+	"code": "652302",
+	"county": "",
+	"lat": "43.909825",
+	"lng": "88.1144030"
+}]

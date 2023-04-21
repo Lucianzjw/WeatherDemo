@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TabSizeBlod_20">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/sp_20</item>
+    </style>
+
+
+    <style name="TabSizeNormal_17">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/sp_17</item>
+    </style>
+
+    <style name="TabSizeNormal">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TabSizeBlod">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
